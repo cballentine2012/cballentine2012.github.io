@@ -1,0 +1,19 @@
+{
+  "name": "cballentine2012.github.io",
+  "version": "1.0.0",
+  "description": "Public Github Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cballentine2012/cballentine2012.github.io.git"
+  },
+  "author": "Chris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cballentine2012/cballentine2012.github.io/issues"
+  },
+  "homepage": "https://github.com/cballentine2012/cballentine2012.github.io#readme"
+}
