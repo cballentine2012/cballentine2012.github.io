@@ -16,7 +16,5 @@
     "url": "https://github.com/cballentine2012/cballentine2012.github.io/issues"
   },
   "homepage": "https://github.com/cballentine2012/cballentine2012.github.io#readme",
-  "dependencies": {
-    "multer": "^1.3.0"
-  }
+  "dependencies": {}
 }
